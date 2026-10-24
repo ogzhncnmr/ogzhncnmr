@@ -1,33 +1,33 @@
-# Hi, I'm Oğuzhan 👋
+# Merhaba, ben Oğuzhan 👋
 
-**IP/MPLS network engineer · MSc in Cybersecurity · building security and AI tools on the side.**
+**IP/MPLS network mühendisi · Siber güvenlik yüksek lisansı · Mesai dışında güvenlik ve yapay zekâ araçları geliştiriyorum.**
 
-> Merhaba! 10+ yıldır Türk Telekom'da IP/MPLS omurgasında çalışıyorum; boş zamanlarımda ağ güvenliği ve yapay zekâ araçları geliştiriyorum.
+[English version](README.en.md)
 
-I keep a carrier IP/MPLS backbone running across six provinces in north-west Türkiye — enterprise L2/L3 VPNs, high availability and DDoS mitigation — and I spend my evenings turning network and security problems into open-source tools.
+2016'dan beri Türk Telekom'da, Türkiye'nin kuzeybatısında altı ilde bir operatör IP/MPLS omurgasını ayakta tutuyorum: kurumsal L2/L3 VPN'ler, yüksek erişilebilirlik ve DDoS koruması. Akşamlarımı ağ ve güvenlik sorunlarını açık kaynak araçlara dönüştürerek geçiriyorum.
 
-### 🛰️ What I work on
+### 🛰️ Üzerinde çalıştıklarım
 
-- **Carrier networks** — IP/MPLS, LDP, L2VPN (Epipe, VPLS), L3VPN (IES, VPRN), multicast / IPTV, MC-LAG, VRRP
-- **Network security** — packet analysis, network forensics, DDoS mitigation, AI-agent security, authorized bug bounty research
-- **Building** — Python, Go, TypeScript, LLM integrations, browser extensions
+- **Operatör ağları**: IP/MPLS, LDP, L2VPN (Epipe, VPLS), L3VPN (IES, VPRN), multicast / IPTV, MC-LAG, VRRP
+- **Ağ güvenliği**: paket analizi, ağ adli bilişimi, DDoS koruması, yapay zekâ ajanı güvenliği, yetkili bug bounty araştırması
+- **Geliştirme**: Python, Go, TypeScript, LLM entegrasyonları, tarayıcı eklentileri
 
-### 🧰 Featured projects
+### 🧰 Öne çıkan projeler
 
-| Project | What it does |
+| Proje | Ne yapar |
 |---|---|
-| [**pcapstory**](https://github.com/ogzhncnmr/pcapstory) | Turns raw packet captures into a chronological incident narrative: tshark detectors, paste-ready Wireshark filters, MITRE ATT&CK mapping and a privacy-first AI narrator. |
-| [**doupass**](https://github.com/ogzhncnmr/doupass) | Local-first policy engine for AI coding agents — one portable policy file for MCP and harness-native tools, with a hash-chained audit log. |
-| [**nokia-huawei-cli**](https://github.com/ogzhncnmr/nokia-huawei-cli) | Side-by-side Nokia SR OS ↔ Huawei VRP command reference for IP/MPLS operations and troubleshooting. |
-| [**logohane**](https://github.com/ogzhncnmr/logohane) | Open-source company logos in SVG, PNG and WebP with predictable paths (all Borsa Istanbul companies). |
-| [**Yerbilir**](https://yerbilir.netlify.app/) | One-page report on an address's ground, earthquake history and surroundings. |
+| [**pcapstory**](https://github.com/ogzhncnmr/pcapstory) | Ham paket yakalamalarını kronolojik bir olay anlatısına çevirir: tshark dedektörleri, yapıştırmaya hazır Wireshark filtreleri, MITRE ATT&CK eşlemesi ve gizlilik öncelikli bir yapay zekâ anlatıcısı. |
+| [**doupass**](https://github.com/ogzhncnmr/doupass) | Yapay zekâ kodlama ajanları için yerel öncelikli politika motoru: MCP ve ajanın kendi araçları için tek bir taşınabilir politika dosyası, hash zincirli denetim kaydı. |
+| [**nokia-huawei-cli**](https://github.com/ogzhncnmr/nokia-huawei-cli) | IP/MPLS işletimi ve sorun giderme için Nokia SR OS ↔ Huawei VRP komutlarını yan yana gösteren başvuru kaynağı. |
+| [**logohane**](https://github.com/ogzhncnmr/logohane) | Şirket logolarını SVG, PNG ve WebP olarak tahmin edilebilir yollarla sunan açık kaynak proje (Borsa İstanbul'daki tüm şirketler). |
+| [**Yerbilir**](https://yerbilir.netlify.app/) | Bir adresin zemini, deprem geçmişi ve çevresi tek sayfalık raporda. |
 
-### 🔧 Toolbox
+### 🔧 Araç kutusu
 
 `Nokia SR OS` · `Huawei VRP` · `Alcatel-Lucent OmniSwitch` · `Wireshark / tshark` · `SAM 5620` · `U2000` · `Cacti` · `Python` · `Go` · `TypeScript` · `Docker`
 
-### 📫 Reach me
+### 📫 Bana ulaşın
 
 [LinkedIn](https://www.linkedin.com/in/oguzhan-canmar/) · [ogzhncnmr@gmail.com](mailto:ogzhncnmr@gmail.com)
 
-<sub>Everything here is personal work. Nothing in these repositories comes from, or describes, any employer's network.</sub>
+<sub>Buradaki her şey kişisel çalışmadır. Bu depolardaki hiçbir şey herhangi bir işverenin ağından gelmez ve onu tarif etmez.</sub>
